@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hidden-is-fun&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-is-fun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-is-fun&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hidden-is-fun/Hidden-is-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
